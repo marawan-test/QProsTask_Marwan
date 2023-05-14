@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suits runner">
+    <listeners>
+        <listener class-name="utilities.TestNGListener"/>
+    </listeners>
+    <test name="JawwyTV">
+
+        <classes>
+            <class name="JawwyTV_tst"></class>
+        </classes>
+
+    </test>
+
+
+</suite>

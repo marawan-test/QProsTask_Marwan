@@ -1,0 +1,48 @@
+{
+  "UAE": {
+    "CountryName": "UAE",
+    "Currency": "USD",
+    "subscription": [
+      {"name":"LITE",
+      "amount":"5.4"
+      },
+      {"name":"CLASSIC",
+        "amount":"10.9"
+      },
+      {"name":"PREMIUM",
+        "amount":"16.3"
+      }
+    ]
+  },
+  "Chad": {
+    "CountryName": "Chad",
+    "Currency": "USD",
+    "subscription": [
+      {"name":"LITE",
+        "amount":"2.4"
+      },
+      {"name":"CLASSIC",
+        "amount":"4.8"
+      },
+      {"name":"PREMIUM",
+        "amount":"7.2 "
+      }
+    ]
+  },
+  "Morocco": {
+    "CountryName": "Morocco",
+    "Currency": "USD",
+    "subscription": [
+      {"name":"LITE",
+        "amount":"2"
+      },
+      {"name":"CLASSIC",
+        "amount":"3.9"
+      },
+      {"name":"PREMIUM",
+        "amount":"5.8"
+      }
+    ]
+  }
+
+}
